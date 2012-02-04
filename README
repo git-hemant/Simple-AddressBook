@@ -1,0 +1,3 @@
+The war contains everything required to run this application, simply drop this jar in the web container and it should work out of the box.
+
+To create the database table to persist the address book entries please execute the create.sql present in the sql folder. Also you would need to modify DatabaseHandler to change db driver and other details.s
